@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://psargar616.github.io/portfolio/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Psargar616/portfolio">
       Solution
     </a>
     <span> | </span>
@@ -38,7 +38,7 @@
 
 ![screenshot](./screenshots/screencapture-portfolio-solution-1440px.png)
 
-Created a beautiful responsive portfolio page using HTML and CSS. A portfolio is the most important certificate when applying for a job. The very purpose of your web developer portfolio is to showcase your work(experiences), projects, & education. 
+Created a beautiful responsive portfolio page using HTML and CSS. A portfolio is the most important certificate when applying for a job. The very purpose of your web developer portfolio is to showcase your work(experiences), projects, & education. Used CSS grids and flexbox to make website responsive. 
 
 ### Built With
 
@@ -52,6 +52,16 @@ Created a beautiful responsive portfolio page using HTML and CSS. A portfolio is
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/5ZnOYsSXM24JWnCsNFlt) was to build an application to complete the given user stories.
 
+Challenge: Create all the elements in the given designs and then create a portfolio with your own content. You can create your own layout. You can use React, Vue.js, or other libraries to create a reusable component, but it is not required. Don’t look at the existing solution. Fulfill user stories below:
+
+- User story: I can see personal details
+- User story: I can see skills
+- User story: I can see projects
+- User story: I can filter projects by tag
+- User story: I can see hobbies or certificates
+- User story (optional): I can see experiences
+- User story (optional): I can see blogs
+- User story (optional): I can see projects on different pages
 
 ## Acknowledgements
 
